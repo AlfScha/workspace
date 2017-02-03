@@ -4,6 +4,10 @@ Arbeitsbereich der FDP Digital
 
 Initiiert vom FDP Kreisverband Heidelberg
 
+## Wiki
+
+[Hier geht's zu unserem Arbeitswiki](/fdp-digital/workspace/wiki)
+
 ## Impressum
 
 FDP Kreisverband Heidelberg  
