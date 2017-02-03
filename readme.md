@@ -6,7 +6,7 @@ Initiiert vom FDP Kreisverband Heidelberg
 
 ## Wiki
 
-[Hier geht's zu unserem Arbeitswiki](/fdp-digital/workspace/wiki)
+[Hier geht's zu unserem Arbeitswiki](https://github.com/fdp-digital/workspace/wiki)
 
 ## Impressum
 
